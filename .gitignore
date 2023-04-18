@@ -1,0 +1,34 @@
+# Ignore deprecated
+**/DEPRECATED*
+
+# Ignore Archived
+**/ARCHIVE*
+
+# Ignore data
+/data
+
+# Ignore results
+/results
+
+# Ignore Genomes
+genomes
+
+# Ignore project files not used in analyses
+normCrosslinkCoverage
+igv
+
+# Ignore code workspace
+workspace.code-workspace
+
+# Ignore an embedded cloned repo, this can later be added as submodule if it turns out to be useful
+gencode-utr-fix
+
+
+# cached
+__pycache__
+
+# Clippy
+*Summits.bed*
+
+# R
+.Rhistory
